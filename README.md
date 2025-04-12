@@ -18,4 +18,5 @@ This project is a simple yet functional e-commerce website built with HTML, CSS,
 - JavaScript – Cart functionality and interactivity
 
 ## 🖼️ Screenshot
+![Image](https://github.com/user-attachments/assets/207da83e-9339-45ec-9121-7a831c77c8b4)
 
